@@ -1,0 +1,16 @@
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\bin\Debug\Ventana.exe.config
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\bin\Debug\Ventana.exe
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\bin\Debug\Ventana.pdb
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\bin\Debug\ClassVistaSQL.dll
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\bin\Debug\ManejaSQL.dll
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\bin\Debug\ClassVistaSQL.pdb
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\bin\Debug\ManejaSQL.pdb
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\obj\Debug\Ventana.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\obj\Debug\Ventana.Form1.resources
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\obj\Debug\Ventana.Properties.Resources.resources
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\obj\Debug\Ventana.csproj.GenerateResource.cache
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\obj\Debug\Ventana.csproj.CopyComplete
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\obj\Debug\Ventana.exe
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\obj\Debug\Ventana.pdb
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\obj\Debug\Ventana.Login.resources
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\Ventana\obj\Debug\Ventana.csproj.CoreCompileInputs.cache

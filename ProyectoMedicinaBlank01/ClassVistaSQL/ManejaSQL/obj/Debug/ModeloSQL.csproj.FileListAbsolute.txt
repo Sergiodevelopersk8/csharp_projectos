@@ -1,0 +1,6 @@
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ManejaSQL\bin\Debug\ManejaSQL.dll
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ManejaSQL\bin\Debug\ManejaSQL.pdb
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ManejaSQL\obj\Debug\ManejaSQL.dll
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ManejaSQL\obj\Debug\ManejaSQL.pdb
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ManejaSQL\obj\Debug\ModeloSQL.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ManejaSQL\obj\Debug\ModeloSQL.csprojAssemblyReference.cache
