@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\bin\Debug\VentanaTorneo.exe.config
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\bin\Debug\VentanaTorneo.exe
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\bin\Debug\VentanaTorneo.pdb
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\bin\Debug\ModeloDelTorneoLibrary.dll
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\bin\Debug\VistaTorneo.dll
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\bin\Debug\ModeloDelTorneoLibrary.pdb
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\bin\Debug\VistaTorneo.pdb
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\obj\Debug\VentanaTorneo.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\obj\Debug\VentanaTorneo.Form1.resources
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\obj\Debug\VentanaTorneo.Properties.Resources.resources
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\obj\Debug\VentanaTorneo.csproj.GenerateResource.cache
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\obj\Debug\VentanaTorneo.csproj.CopyComplete
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\obj\Debug\VentanaTorneo.exe
+C:\Users\DrawH\source\repos\Torneosblank\VentanaTorneo\obj\Debug\VentanaTorneo.pdb

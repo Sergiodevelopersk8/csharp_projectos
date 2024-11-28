@@ -1,0 +1,5 @@
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ControlVentasLibrary\bin\Debug\ControlVentasLibrary.dll
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ControlVentasLibrary\bin\Debug\ControlVentasLibrary.pdb
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ControlVentasLibrary\obj\Debug\ControlVentasLibrary.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ControlVentasLibrary\obj\Debug\ControlVentasLibrary.dll
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ControlVentasLibrary\obj\Debug\ControlVentasLibrary.pdb

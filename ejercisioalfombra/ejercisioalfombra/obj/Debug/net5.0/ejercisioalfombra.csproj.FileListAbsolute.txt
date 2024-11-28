@@ -1,0 +1,16 @@
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\obj\Debug\net5.0\ejercisioalfombra.csproj.AssemblyReference.cache
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\obj\Debug\net5.0\ejercisioalfombra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\obj\Debug\net5.0\ejercisioalfombra.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\obj\Debug\net5.0\ejercisioalfombra.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\obj\Debug\net5.0\ejercisioalfombra.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\bin\Debug\net5.0\ejercisioalfombra.exe
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\bin\Debug\net5.0\ejercisioalfombra.deps.json
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\bin\Debug\net5.0\ejercisioalfombra.runtimeconfig.json
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\bin\Debug\net5.0\ejercisioalfombra.runtimeconfig.dev.json
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\bin\Debug\net5.0\ejercisioalfombra.dll
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\bin\Debug\net5.0\ref\ejercisioalfombra.dll
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\bin\Debug\net5.0\ejercisioalfombra.pdb
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\obj\Debug\net5.0\ejercisioalfombra.dll
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\obj\Debug\net5.0\ref\ejercisioalfombra.dll
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\obj\Debug\net5.0\ejercisioalfombra.pdb
+C:\Users\DrawH\source\repos\ejercisioalfombra\ejercisioalfombra\obj\Debug\net5.0\ejercisioalfombra.genruntimeconfig.cache

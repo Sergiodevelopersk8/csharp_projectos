@@ -1,0 +1,12 @@
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\bin\Debug\Ventanasocios.exe.config
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\bin\Debug\Ventanasocios.exe
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\bin\Debug\Ventanasocios.pdb
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\bin\Debug\SociosporcentajesLibrary.dll
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\bin\Debug\SociosporcentajesLibrary.pdb
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\obj\Debug\Ventanasocios.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\obj\Debug\Ventanasocios.Form1.resources
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\obj\Debug\Ventanasocios.Properties.Resources.resources
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\obj\Debug\Ventanasocios.csproj.GenerateResource.cache
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\obj\Debug\Ventanasocios.csproj.CopyComplete
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\obj\Debug\Ventanasocios.exe
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\Ventanasocios\obj\Debug\Ventanasocios.pdb

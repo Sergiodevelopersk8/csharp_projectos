@@ -1,0 +1,13 @@
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\bin\Debug\netcoreapp3.1\clases y objetos repaso.exe
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\bin\Debug\netcoreapp3.1\clases y objetos repaso.deps.json
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\bin\Debug\netcoreapp3.1\clases y objetos repaso.runtimeconfig.json
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\bin\Debug\netcoreapp3.1\clases y objetos repaso.runtimeconfig.dev.json
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\bin\Debug\netcoreapp3.1\clases y objetos repaso.dll
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\bin\Debug\netcoreapp3.1\clases y objetos repaso.pdb
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\obj\Debug\netcoreapp3.1\clases y objetos repaso.csproj.AssemblyReference.cache
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\obj\Debug\netcoreapp3.1\clases y objetos repaso.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\obj\Debug\netcoreapp3.1\clases y objetos repaso.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\obj\Debug\netcoreapp3.1\clases y objetos repaso.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\obj\Debug\netcoreapp3.1\clases y objetos repaso.dll
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\obj\Debug\netcoreapp3.1\clases y objetos repaso.pdb
+C:\Users\DrawH\source\repos\clases y objetos repaso\clases y objetos repaso\obj\Debug\netcoreapp3.1\clases y objetos repaso.genruntimeconfig.cache

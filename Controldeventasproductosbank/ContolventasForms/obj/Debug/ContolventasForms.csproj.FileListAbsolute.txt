@@ -1,0 +1,12 @@
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\bin\Debug\ContolventasForms.exe.config
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\bin\Debug\ContolventasForms.exe
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\bin\Debug\ContolventasForms.pdb
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\bin\Debug\ControlVentasLibrary.dll
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\bin\Debug\ControlVentasLibrary.pdb
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\obj\Debug\ContolventasForms.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\obj\Debug\ContolventasForms.Form1.resources
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\obj\Debug\ContolventasForms.Properties.Resources.resources
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\obj\Debug\ContolventasForms.csproj.GenerateResource.cache
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\obj\Debug\ContolventasForms.csproj.CopyComplete
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\obj\Debug\ContolventasForms.exe
+C:\Users\DrawH\source\repos\Controldeventasproductosbank\ContolventasForms\obj\Debug\ContolventasForms.pdb

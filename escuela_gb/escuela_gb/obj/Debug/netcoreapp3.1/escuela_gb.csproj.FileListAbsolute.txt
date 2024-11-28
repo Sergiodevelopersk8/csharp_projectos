@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\bin\Debug\netcoreapp3.1\escuela_gb.exe
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\bin\Debug\netcoreapp3.1\escuela_gb.deps.json
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\bin\Debug\netcoreapp3.1\escuela_gb.runtimeconfig.json
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\bin\Debug\netcoreapp3.1\escuela_gb.runtimeconfig.dev.json
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\bin\Debug\netcoreapp3.1\escuela_gb.dll
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\bin\Debug\netcoreapp3.1\escuela_gb.pdb
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\obj\Debug\netcoreapp3.1\escuela_gb.csproj.AssemblyReference.cache
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\obj\Debug\netcoreapp3.1\escuela_gb.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\obj\Debug\netcoreapp3.1\escuela_gb.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\obj\Debug\netcoreapp3.1\escuela_gb.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\obj\Debug\netcoreapp3.1\escuela_gb.dll
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\obj\Debug\netcoreapp3.1\escuela_gb.pdb
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\obj\Debug\netcoreapp3.1\escuela_gb.genruntimeconfig.cache
+C:\Users\DrawH\source\repos\escuela_gb\escuela_gb\obj\Debug\netcoreapp3.1\escuela_gb.GeneratedMSBuildEditorConfig.editorconfig

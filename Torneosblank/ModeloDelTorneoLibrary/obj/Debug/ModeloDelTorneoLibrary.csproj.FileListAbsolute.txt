@@ -1,0 +1,5 @@
+C:\Users\DrawH\source\repos\Torneosblank\ModeloDelTorneoLibrary\bin\Debug\ModeloDelTorneoLibrary.dll
+C:\Users\DrawH\source\repos\Torneosblank\ModeloDelTorneoLibrary\bin\Debug\ModeloDelTorneoLibrary.pdb
+C:\Users\DrawH\source\repos\Torneosblank\ModeloDelTorneoLibrary\obj\Debug\ModeloDelTorneoLibrary.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\Torneosblank\ModeloDelTorneoLibrary\obj\Debug\ModeloDelTorneoLibrary.dll
+C:\Users\DrawH\source\repos\Torneosblank\ModeloDelTorneoLibrary\obj\Debug\ModeloDelTorneoLibrary.pdb

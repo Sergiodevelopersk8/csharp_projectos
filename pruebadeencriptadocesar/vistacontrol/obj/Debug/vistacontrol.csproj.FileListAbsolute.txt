@@ -1,0 +1,6 @@
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\vistacontrol\bin\Debug\vistacontrol.dll
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\vistacontrol\bin\Debug\vistacontrol.pdb
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\vistacontrol\obj\Debug\vistacontrol.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\vistacontrol\obj\Debug\vistacontrol.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\vistacontrol\obj\Debug\vistacontrol.dll
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\vistacontrol\obj\Debug\vistacontrol.pdb

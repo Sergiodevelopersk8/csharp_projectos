@@ -1,0 +1,11 @@
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\bin\Debug\netcoreapp3.1\pruebaanidada.exe
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\bin\Debug\netcoreapp3.1\pruebaanidada.deps.json
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\bin\Debug\netcoreapp3.1\pruebaanidada.runtimeconfig.json
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\bin\Debug\netcoreapp3.1\pruebaanidada.runtimeconfig.dev.json
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\bin\Debug\netcoreapp3.1\pruebaanidada.dll
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\bin\Debug\netcoreapp3.1\pruebaanidada.pdb
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\obj\Debug\netcoreapp3.1\pruebaanidada.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\obj\Debug\netcoreapp3.1\pruebaanidada.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\obj\Debug\netcoreapp3.1\pruebaanidada.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\obj\Debug\netcoreapp3.1\pruebaanidada.dll
+C:\Users\DrawH\source\repos\pruebaanidada\pruebaanidada\obj\Debug\netcoreapp3.1\pruebaanidada.pdb

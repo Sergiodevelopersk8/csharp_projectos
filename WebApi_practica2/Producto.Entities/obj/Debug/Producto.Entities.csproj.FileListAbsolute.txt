@@ -1,0 +1,2 @@
+C:\Users\DrawH\source\repos\WebApi_practica2\Producto.Entities\obj\Debug\Producto.Entities.csproj.AssemblyReference.cache
+C:\Users\DrawH\source\repos\WebApi_practica2\Producto.Entities\obj\Debug\Interop.SSCE.dll

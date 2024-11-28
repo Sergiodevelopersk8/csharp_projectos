@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\bin\Debug\netcoreapp3.1\usode_interfaces.exe
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\bin\Debug\netcoreapp3.1\usode_interfaces.deps.json
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\bin\Debug\netcoreapp3.1\usode_interfaces.runtimeconfig.json
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\bin\Debug\netcoreapp3.1\usode_interfaces.runtimeconfig.dev.json
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\bin\Debug\netcoreapp3.1\usode_interfaces.dll
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\bin\Debug\netcoreapp3.1\usode_interfaces.pdb
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\obj\Debug\netcoreapp3.1\usode_interfaces.csproj.AssemblyReference.cache
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\obj\Debug\netcoreapp3.1\usode_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\obj\Debug\netcoreapp3.1\usode_interfaces.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\obj\Debug\netcoreapp3.1\usode_interfaces.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\obj\Debug\netcoreapp3.1\usode_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\obj\Debug\netcoreapp3.1\usode_interfaces.dll
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\obj\Debug\netcoreapp3.1\usode_interfaces.pdb
+C:\Users\DrawH\source\repos\usode_interfaces\usode_interfaces\obj\Debug\netcoreapp3.1\usode_interfaces.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\bin\Debug\netcoreapp3.1\dispensadordedulces.exe
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\bin\Debug\netcoreapp3.1\dispensadordedulces.deps.json
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\bin\Debug\netcoreapp3.1\dispensadordedulces.runtimeconfig.json
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\bin\Debug\netcoreapp3.1\dispensadordedulces.runtimeconfig.dev.json
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\bin\Debug\netcoreapp3.1\dispensadordedulces.dll
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\bin\Debug\netcoreapp3.1\dispensadordedulces.pdb
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\obj\Debug\netcoreapp3.1\dispensadordedulces.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\obj\Debug\netcoreapp3.1\dispensadordedulces.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\obj\Debug\netcoreapp3.1\dispensadordedulces.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\obj\Debug\netcoreapp3.1\dispensadordedulces.dll
+C:\Users\DrawH\source\repos\dispensadordedulces\dispensadordedulces\obj\Debug\netcoreapp3.1\dispensadordedulces.pdb

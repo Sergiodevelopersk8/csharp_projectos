@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\bin\Debug\FormTorneo.exe.config
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\bin\Debug\FormTorneo.exe
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\bin\Debug\FormTorneo.pdb
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\bin\Debug\ModeloDelTorneoLibrary.dll
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\bin\Debug\VistaTorneo.dll
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\bin\Debug\ModeloDelTorneoLibrary.pdb
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\bin\Debug\VistaTorneo.pdb
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\obj\Debug\FormTorneo.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\obj\Debug\FormTorneo.Form1.resources
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\obj\Debug\FormTorneo.Properties.Resources.resources
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\obj\Debug\FormTorneo.csproj.GenerateResource.cache
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\obj\Debug\FormTorneo.csproj.CopyComplete
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\obj\Debug\FormTorneo.exe
+C:\Users\DrawH\source\repos\Torneosblank\FormTorneo\obj\Debug\FormTorneo.pdb

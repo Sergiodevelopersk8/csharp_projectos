@@ -1,0 +1,4 @@
+C:\Users\DrawH\source\repos\Convercionde medidasbank\ClassConversormedidas\bin\Debug\ClassConversormedidas.dll
+C:\Users\DrawH\source\repos\Convercionde medidasbank\ClassConversormedidas\bin\Debug\ClassConversormedidas.pdb
+C:\Users\DrawH\source\repos\Convercionde medidasbank\ClassConversormedidas\obj\Debug\ClassConversormedidas.dll
+C:\Users\DrawH\source\repos\Convercionde medidasbank\ClassConversormedidas\obj\Debug\ClassConversormedidas.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejercisioalfombra/1.0.0": {
+        "runtime": {
+          "ejercisioalfombra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercisioalfombra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

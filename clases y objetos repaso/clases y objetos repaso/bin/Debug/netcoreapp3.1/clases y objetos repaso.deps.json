@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "clases y objetos repaso/1.0.0": {
+        "runtime": {
+          "clases y objetos repaso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clases y objetos repaso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

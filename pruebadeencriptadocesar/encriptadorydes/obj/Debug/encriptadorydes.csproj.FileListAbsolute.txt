@@ -1,0 +1,6 @@
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\encriptadorydes\bin\Debug\encriptadorydes.dll
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\encriptadorydes\bin\Debug\encriptadorydes.pdb
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\encriptadorydes\obj\Debug\encriptadorydes.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\encriptadorydes\obj\Debug\encriptadorydes.dll
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\encriptadorydes\obj\Debug\encriptadorydes.pdb
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\encriptadorydes\obj\Debug\encriptadorydes.csprojAssemblyReference.cache

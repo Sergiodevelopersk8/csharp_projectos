@@ -1,0 +1,5 @@
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\SociosporcentajesLibrary\bin\Debug\SociosporcentajesLibrary.dll
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\SociosporcentajesLibrary\bin\Debug\SociosporcentajesLibrary.pdb
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\SociosporcentajesLibrary\obj\Debug\SociosporcentajesLibrary.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\SociosporcentajesLibrary\obj\Debug\SociosporcentajesLibrary.dll
+C:\Users\DrawH\source\repos\PorcentajedesociosSolution\SociosporcentajesLibrary\obj\Debug\SociosporcentajesLibrary.pdb

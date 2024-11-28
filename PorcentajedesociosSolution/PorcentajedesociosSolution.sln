@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SociosporcentajesLibrary", "SociosporcentajesLibrary\SociosporcentajesLibrary.csproj", "{70CD7409-1A2C-499B-94BE-0114ECD81140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ventanasocios", "Ventanasocios\Ventanasocios.csproj", "{04E94F9B-CFA5-4B0B-A850-1F7DCEA786BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70CD7409-1A2C-499B-94BE-0114ECD81140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CD7409-1A2C-499B-94BE-0114ECD81140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CD7409-1A2C-499B-94BE-0114ECD81140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CD7409-1A2C-499B-94BE-0114ECD81140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E94F9B-CFA5-4B0B-A850-1F7DCEA786BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E94F9B-CFA5-4B0B-A850-1F7DCEA786BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E94F9B-CFA5-4B0B-A850-1F7DCEA786BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E94F9B-CFA5-4B0B-A850-1F7DCEA786BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C7351E8-3BE0-4585-98AE-2F1B3667BFE6}
+	EndGlobalSection
+EndGlobal

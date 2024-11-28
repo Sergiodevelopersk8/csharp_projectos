@@ -1,0 +1,13 @@
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\bin\Debug\encriptadorydes.dll
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\bin\Debug\encriptadorydes.pdb
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\DrawH\source\repos\pruebadeencriptadocesar\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

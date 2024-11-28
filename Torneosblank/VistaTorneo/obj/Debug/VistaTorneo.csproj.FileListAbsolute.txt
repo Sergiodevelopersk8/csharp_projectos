@@ -1,0 +1,5 @@
+C:\Users\DrawH\source\repos\Torneosblank\VistaTorneo\bin\Debug\VistaTorneo.dll
+C:\Users\DrawH\source\repos\Torneosblank\VistaTorneo\bin\Debug\VistaTorneo.pdb
+C:\Users\DrawH\source\repos\Torneosblank\VistaTorneo\obj\Debug\VistaTorneo.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\Torneosblank\VistaTorneo\obj\Debug\VistaTorneo.dll
+C:\Users\DrawH\source\repos\Torneosblank\VistaTorneo\obj\Debug\VistaTorneo.pdb

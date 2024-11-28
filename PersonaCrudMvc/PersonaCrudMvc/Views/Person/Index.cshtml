@@ -1,0 +1,39 @@
+﻿@model IEnumerable<PersonaCrudMvc.Models.personita>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create Nuevo", "AgregarPersona")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.apellido)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.apellido)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "UpdatePerona", new { id=item.id }) |
+            @Html.ActionLink("Details", "DetallesPersona", new { id=item.id }) |
+            @Html.ActionLink("Delete", "EliminarPersona", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

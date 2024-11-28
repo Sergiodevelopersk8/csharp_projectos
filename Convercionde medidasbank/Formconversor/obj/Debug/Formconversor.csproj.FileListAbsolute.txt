@@ -1,0 +1,12 @@
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\bin\Debug\Formconversor.exe.config
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\bin\Debug\Formconversor.exe
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\bin\Debug\Formconversor.pdb
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\bin\Debug\ClassConversormedidas.dll
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\bin\Debug\ClassConversormedidas.pdb
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\obj\Debug\Formconversor.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\obj\Debug\Formconversor.Form1.resources
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\obj\Debug\Formconversor.Properties.Resources.resources
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\obj\Debug\Formconversor.csproj.GenerateResource.cache
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\obj\Debug\Formconversor.csproj.CopyComplete
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\obj\Debug\Formconversor.exe
+C:\Users\DrawH\source\repos\Convercionde medidasbank\Formconversor\obj\Debug\Formconversor.pdb

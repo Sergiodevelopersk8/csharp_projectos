@@ -1,0 +1,14 @@
+C:\Users\DrawH\source\repos\unfor\unfor\bin\Debug\netcoreapp3.1\unfor.exe
+C:\Users\DrawH\source\repos\unfor\unfor\bin\Debug\netcoreapp3.1\unfor.deps.json
+C:\Users\DrawH\source\repos\unfor\unfor\bin\Debug\netcoreapp3.1\unfor.runtimeconfig.json
+C:\Users\DrawH\source\repos\unfor\unfor\bin\Debug\netcoreapp3.1\unfor.runtimeconfig.dev.json
+C:\Users\DrawH\source\repos\unfor\unfor\bin\Debug\netcoreapp3.1\unfor.dll
+C:\Users\DrawH\source\repos\unfor\unfor\bin\Debug\netcoreapp3.1\unfor.pdb
+C:\Users\DrawH\source\repos\unfor\unfor\obj\Debug\netcoreapp3.1\unfor.csproj.AssemblyReference.cache
+C:\Users\DrawH\source\repos\unfor\unfor\obj\Debug\netcoreapp3.1\unfor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrawH\source\repos\unfor\unfor\obj\Debug\netcoreapp3.1\unfor.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\unfor\unfor\obj\Debug\netcoreapp3.1\unfor.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\unfor\unfor\obj\Debug\netcoreapp3.1\unfor.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\unfor\unfor\obj\Debug\netcoreapp3.1\unfor.dll
+C:\Users\DrawH\source\repos\unfor\unfor\obj\Debug\netcoreapp3.1\unfor.pdb
+C:\Users\DrawH\source\repos\unfor\unfor\obj\Debug\netcoreapp3.1\unfor.genruntimeconfig.cache

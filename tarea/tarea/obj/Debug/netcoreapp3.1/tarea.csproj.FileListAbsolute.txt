@@ -1,0 +1,13 @@
+C:\Users\DrawH\source\repos\tarea\tarea\bin\Debug\netcoreapp3.1\tarea.exe
+C:\Users\DrawH\source\repos\tarea\tarea\bin\Debug\netcoreapp3.1\tarea.deps.json
+C:\Users\DrawH\source\repos\tarea\tarea\bin\Debug\netcoreapp3.1\tarea.runtimeconfig.json
+C:\Users\DrawH\source\repos\tarea\tarea\bin\Debug\netcoreapp3.1\tarea.runtimeconfig.dev.json
+C:\Users\DrawH\source\repos\tarea\tarea\bin\Debug\netcoreapp3.1\tarea.dll
+C:\Users\DrawH\source\repos\tarea\tarea\bin\Debug\netcoreapp3.1\tarea.pdb
+C:\Users\DrawH\source\repos\tarea\tarea\obj\Debug\netcoreapp3.1\tarea.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\tarea\tarea\obj\Debug\netcoreapp3.1\tarea.AssemblyInfoInputs.cache
+C:\Users\DrawH\source\repos\tarea\tarea\obj\Debug\netcoreapp3.1\tarea.AssemblyInfo.cs
+C:\Users\DrawH\source\repos\tarea\tarea\obj\Debug\netcoreapp3.1\tarea.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\tarea\tarea\obj\Debug\netcoreapp3.1\tarea.dll
+C:\Users\DrawH\source\repos\tarea\tarea\obj\Debug\netcoreapp3.1\tarea.pdb
+C:\Users\DrawH\source\repos\tarea\tarea\obj\Debug\netcoreapp3.1\tarea.genruntimeconfig.cache

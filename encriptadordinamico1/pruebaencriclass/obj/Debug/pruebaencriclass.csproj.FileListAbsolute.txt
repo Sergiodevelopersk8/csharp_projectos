@@ -1,0 +1,6 @@
+C:\Users\DrawH\source\repos\encriptadordinamico1\pruebaencriclass\bin\Debug\pruebaencriclass.dll
+C:\Users\DrawH\source\repos\encriptadordinamico1\pruebaencriclass\bin\Debug\pruebaencriclass.pdb
+C:\Users\DrawH\source\repos\encriptadordinamico1\pruebaencriclass\obj\Debug\pruebaencriclass.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\encriptadordinamico1\pruebaencriclass\obj\Debug\pruebaencriclass.csproj.CoreCompileInputs.cache
+C:\Users\DrawH\source\repos\encriptadordinamico1\pruebaencriclass\obj\Debug\pruebaencriclass.dll
+C:\Users\DrawH\source\repos\encriptadordinamico1\pruebaencriclass\obj\Debug\pruebaencriclass.pdb

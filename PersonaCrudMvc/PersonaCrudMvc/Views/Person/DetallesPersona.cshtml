@@ -1,0 +1,35 @@
+﻿@model PersonaCrudMvc.Models.personita
+
+@{
+    ViewBag.Title = "DetallesPersona";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>DetallesPersona</h2>
+
+<div>
+    <h4>personita</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.apellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.apellido)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "UpdatePerona", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
