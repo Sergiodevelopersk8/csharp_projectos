@@ -1,0 +1,6 @@
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ClassVistaSQL\bin\Debug\ClassVistaSQL.dll
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ClassVistaSQL\bin\Debug\ClassVistaSQL.pdb
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ClassVistaSQL\obj\Debug\ClassVistaSQL.dll
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ClassVistaSQL\obj\Debug\ClassVistaSQL.pdb
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ClassVistaSQL\obj\Debug\ClassVistaSQL.csprojAssemblyReference.cache
+C:\Users\DrawH\source\repos\ProyectoMedicinaBlank\ClassVistaSQL\obj\Debug\ClassVistaSQL.csproj.CoreCompileInputs.cache
